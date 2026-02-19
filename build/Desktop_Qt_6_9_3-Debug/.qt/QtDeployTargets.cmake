@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_SoundRelay_FILE /home/albin_melit/SoundRelay/build/Desktop_Qt_6_9_3-Debug/SoundRelay)
+set(__QT_DEPLOY_TARGET_SoundRelay_TYPE EXECUTABLE)
